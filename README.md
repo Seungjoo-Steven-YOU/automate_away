@@ -1,6 +1,6 @@
 **Table of Contents**
 - [Entry #1: An Introduction!](#Introduction)
-- [Entry #2: Tailoring resumes and cover letters](#Entry-#2)
+- [Entry #2: Tailoring resumes and cover letters](#Tailored-CVs-&-Cover-letters)
 ----------------
 
 # Introduction
@@ -37,4 +37,13 @@ I have actually already completed my Job application automation project, however
 
 Until then, cheers everyone!
 
-# Entry #2
+# Tailored CVs & Cover letters
+<p align="center">
+  <img src="https://legamart.com/articles/wp-content/uploads/2023/04/job-offer-text-page-min.jpg" width="500" height="300">
+<p/>
+
+Dear future recruiters/employers. I'm unsure if you will ever take a look at this page, but I still feel the need to put a disclaimer. This is not a cover letter or cv generator that just says whatever the job description calls for. All I have managed to do is create a program that formats a resume and cover letter into using one of two distinct resume templates, moves them into the correct folder, and finally updates a job application spreadsheet I have (let the record show that I used VBA macros for the excel!). **A good resume and cover letter still requires research, additional editing, reviewing, and writing**. I fear if I don't explain this in detail, I would look like I'm sending 100s of shotgun resumes out a day, with no research and no strategy. Just know that I'm always paying my due diligence!!
+
+Currently, my biggest challenge is finding new employment opportunities. Like many of the countless job seekers today, I struggled greatly with tailoring my resume and cover letters. A few months into my application, I realized that having two main catch-all resumes simply does not work when looking for employment. Similarly, having a catch-all cover letter that simply replaces job titles, company name, and date completely lacks sincerety, and recruiters can see right through the BS!
+
+In this project, my goal is to try to update the directories and excel spreadsheet with each application, while also creating a resume that has 'tailored' information, often highlighting the most relevant skills for each job description that I actually have, as well as having a customizable professional summary. 
