@@ -1,3 +1,4 @@
+*`Please read the methodology, description, and impact down below. For actual code, the ones I share publicly are in the folders above`* <br/><br/>
 **Table of Contents**
 - [Entry #1: An Introduction!](#Introduction)
 - [Entry #2: Job search and formatting](#Job-search-and-Formatting)
