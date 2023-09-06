@@ -1,6 +1,6 @@
 **Table of Contents**
 - [Entry #1: An Introduction!](#Introduction)
-- [Entry #2: Tailoring resumes and cover letters](#Tailored-CVs-and-Cover-letters)
+- [Entry #2: Job search and formatting](#Job-search-and-Formatting)
 ----------------
 
 # Introduction
@@ -37,7 +37,7 @@ I have actually already completed my Job application automation project, however
 
 Until then, cheers everyone!
 
-# Tailored CVs and Cover letters
+# Job Search and Formatting
 <p align="center">
   <img src="https://legamart.com/articles/wp-content/uploads/2023/04/job-offer-text-page-min.jpg" width="500" height="300">
 <p/>
