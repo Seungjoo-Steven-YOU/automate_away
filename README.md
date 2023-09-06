@@ -32,7 +32,7 @@ Now that's enough about me, let's get down to brass tacks. I have a few automati
 
 - File-Organizer: This is probably something that is easily available online. I just hate having to organize my downloads file, and I wish I can have a program that automatically places the files in their correct place at sometime during the day. I also don't like duplicate files, so maybe it can automatically delete things too. This however may be better done using a command line script, so I'm going to hold off on it until I learn some Powershell.
 - Bikes-Near-Me: I use the bike share around Toronto. Sometimes, my heart gets broken when I walk outside and I see no bikes from the two stations that are near my house :( I'll have to think of a way to show that there are bikes available near me!
-More ideas to come! 
+- More ideas to come! 
 
 I have actually already completed my Job application automation project, however I want to be able to tweak it so that it can truly do everything that I want it to do in the shortest amount of time possible. I will try to finalize my code and submit it in the near future!
 
